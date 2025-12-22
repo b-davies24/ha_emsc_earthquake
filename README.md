@@ -15,7 +15,7 @@ You will need to install the emsc_earthquake manually.
 
 - Create custom_components folder if it does not exist to get following structure `config/custom_components`
 
-- Create crowipmodule folder inside custom_components folder `config/custom_components/emsc_earthquake`
+- Create emsc_earthquake folder inside custom_components folder `config/custom_components/emsc_earthquake`
 
 - Copy all files from [custom_components/emsc_earthquake/](custom_components/emsc_earthquake/) into the previously created folder
 
