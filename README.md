@@ -37,7 +37,7 @@ You will need to install the emsc_earthquake manually.
 
 - __center_latitude:__ Latitude of your base location, default is zone.home latitude
 
-- __center_logitude:__ Longitude of your base location, default is zone.home longitude
+- __center_longitude:__ Longitude of your base location, default is zone.home longitude
 
 - __radius_km:__ Distance of all earthquakes to be informed of, within a radius from your base location (in km)
 
